@@ -22,7 +22,7 @@
     "express": "^4.14.0",
     "immutable": "^4.0.0-rc.12",
     "method-override": "^3.0.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "node-watch": "^0.6.3",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
