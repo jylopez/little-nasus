@@ -19,7 +19,7 @@
     "compression": "^1.7.4",
     "dotenv": "^2.0.0",
     "ejs": "^2.6.1",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "immutable": "^4.0.0-rc.12",
     "method-override": "^3.0.0",
     "node-sass": "^4.13.1",
